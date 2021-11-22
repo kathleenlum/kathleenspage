@@ -1,2 +1,2 @@
-# Welcome to kathleenspage
-This is the beginning of Kathleen's portfolio website hosted by GitHub
+# Welcome to Kathleen's Portfolio
+This is just the beginning :)
