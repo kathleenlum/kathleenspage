@@ -1,5 +1,9 @@
-header{
- background: aquamarine;
- text-align: center;
- 
+.basic{
+    header{
+    background: aquamarine;
+        .logo{
+            color: purple;
+        }
+    
+    }
 }
