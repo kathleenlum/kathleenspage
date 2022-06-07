@@ -4,9 +4,12 @@ body{
    background-color: white;
   
 }
+a, a:visited {
+    color: yellow;
+}
 .header {
   background-color: #3D426F;
-  font-color: white;
+//   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
